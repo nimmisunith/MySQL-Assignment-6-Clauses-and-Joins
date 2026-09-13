@@ -1,4 +1,4 @@
-https://drive.google.com/drive/folders/1sPa3NQlVmN09voib-Ibvh6gVNSpAUP7m?usp=drive_link
+https://drive.google.com/drive/folders/1sPa3NQlVmN09voib-Ibvh6gVNSpAUP7m?usp=sharing
 
 This assignment demonstrates the use of MySQL queries to 
 retrieve, filter, sort, group, and analyze employee data.
